@@ -1,0 +1,6 @@
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/Application.java
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/repository/CustomerRepo.java
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/controller/CustomerController.java
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/Service/CustomerService.java
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/entity/CustomerEntity.java
+/home/administrator/Documents/spring-boot-crud-operation./src/main/java/com/example/springbootcrudoperation/Service/impl/CustomerServiceImpl.java
